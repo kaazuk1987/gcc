@@ -42,6 +42,7 @@ int main()
 	// Non-virtual function, binded
 	// at compile time
 	bptr->show();
+    bptr->show();
 
 	return 0;
 }
