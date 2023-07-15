@@ -1,6 +1,7 @@
 // C++ program for function overriding
 #include <bits/stdc++.h>
 #include <typeinfo>
+
 using namespace std;
 
 class base {
