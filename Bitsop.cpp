@@ -50,6 +50,6 @@ printf("byte1|byte2 = %03d hex = %02x \n",sum,sum);
     b ^= a;
     a ^= b;
     
-    std::cout << a << ' ' << b << '\n';
+    std::cout << a << ' i ' << b << '\n';
     return 0;
 }   
